@@ -29,3 +29,5 @@
 
 9.  What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
  - From my very basic understanding the hold HTML used to put <div id = " "> on everything, the headers the navs, the articles. the new HTML 5  version removed the <div id> on a lot of sections now replacing them with their respective names. This could allow screen readers to ignore headers and footers and deliver the main content of a site.
+
+codePen: https://codepen.io/RosaTheDev/pen/YzVbNJZ
