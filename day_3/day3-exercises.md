@@ -13,7 +13,26 @@
   - The fieldset element is used to group similar form items together
 
 5.  Describe the differences between border, margin, and padding.
+  - Border - Separates one box from another
+  - Margin - Sit on the outside edge of a boarder
+  - Padding - The space between the boarder of a box and the content contained
+              within it.
 6.  For a CSS rule `padding: 1px 2px 5px 10px`, what sides of the content box does each pixel value correspond to?
+
 7.  Describe the difference between block-level and inline elements.
+  - Block level elements start on a new line and acts like the main building block of any layout
+  - Inline elements flow in between surrounding text
+
 8.  What is the role of fixed positioning, and why is z-index important in the scenario of using fixed positioning?
+    - Fixed positioning places the element in relation to the browser window while
+      when used with z-index when a user scrolls down a page the element stays in
+      the exact same position
+
 9.  What is the difference between a fixed and liquid layout?
+  - Fixed layout designs do not change size as the user increases or decreases
+    the size as the user increases or decreases the size of their browser window
+    ***Measurements Tend to Be in Pixels***
+
+  - Liquid layouts stretch and contract as the user increases or decreases the
+    size of the browser window
+    ***They Tend to Use Percentages***
