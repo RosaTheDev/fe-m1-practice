@@ -36,3 +36,8 @@
   - Liquid layouts stretch and contract as the user increases or decreases the
     size of the browser window
     ***They Tend to Use Percentages***
+
+
+***Doing the Paragraph dividing into two vertical columns was so difficult for me
+  only because I could not figure out how to style two different paragraph lengths
+  so that the top of the paragraphs would be even***
