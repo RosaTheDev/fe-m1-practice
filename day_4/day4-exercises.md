@@ -11,7 +11,8 @@
   - Png: Used for images with few colors or large areas of the same color.
 
 4.  What is the benefit of specifying the height and width of images in CSS compared to specifying in the HTML?
-
+  - Because it allows for faster rendering by eliminating the need for unnecessary reflows and repaints
 5.  What is an image sprite, and why is it useful?
+  - A technique used in CSS in order to reduce the number of HTTP requests on a page
 
 Continue working with the page you created in CodePen, and add a couple relevant images to your paragraph text.
